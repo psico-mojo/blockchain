@@ -1,0 +1,22 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "get the current price of eth.",
+  "main": "eth_price.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "blockchain"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "psico",
+  "license": "MIT",
+  "dependencies": {
+    "https": "^1.0.0",
+    "querystring": "^0.2.1"
+  }
+}
